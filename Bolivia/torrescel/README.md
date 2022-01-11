@@ -6,7 +6,7 @@ Representación de ubicación de torres de telefonía celular a partir de datos 
 
 [Código fuente R](torres_celular_Bolivia.R)
 
-Gráfico creado en R a partir de código desarrollado por @EtienneBacher / Rafael Lopes [@raflpx](https://github.com/rafalopespx/cell_towers_br)
+Gráfico creado en R a partir de código desarrollado por @EtienneBacher / Rafael Lopes [@rafalpx](https://github.com/rafalopespx/cell_towers_br)
 
 Diseño final en LibreOffice Impress.
 
