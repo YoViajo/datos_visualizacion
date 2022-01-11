@@ -7,7 +7,7 @@ Datos de casos confirmados para Bolivia obtenidos de [Our World in Data](https:/
 
 Gráfico creado en R de la adaptación de código desarrollado por Ansgar Wosling [@_ansgar](https://bydata.github.io/nyt-corona-spiral-chart/)
 
-Diseño final en LibreOffice Impress.
+Diseño final (leyenda y edición de algunas etiquetas) en LibreOffice Impress.
 
 ---
 
