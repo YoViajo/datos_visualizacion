@@ -14,14 +14,12 @@ Mapas creados para Sudamérica a partir código desarrollado por Adam Symington 
 
 ## Mapas
 
-![Mapa de ríos](sam_ríos.png)
 
-![Mapa de cuencas](sam_cuencas.png)
-
-![Mapa de ríos con representación de ancho y profundidad](sam_ríos_ancho-profundidad.png)
-
-![Mapa de ríos con diferenciación de cuencas](sam_ríos_cuencas.png)
-
-![Mapa de ríos con representación de profundidad](sam_ríos_profundidad.png)
-
-![Mapa de ríos con representación de profundidad y distinción de cuenca](sam_ríos_profundidad_colorCuenca.png)
+| Nombre             |  Mapa |
+:-------------------------:|:-------------------------:
+[Ríos de Sudamérica]  |  ![](sam_ríos.png)
+[Cuencas de Sudamérica]  |  ![](sam_cuencas.png)
+[Ríos con representación de ancho y profundidad]  |  ![](sam_ríos_ancho-profundidad.png)
+[Ríos con diferenciación de cuencas]  |  ![](sam_ríos_cuencas.png)
+[Ríos con representación de profundidad]  |  ![](sam_ríos_profundidad.pn)
+[Ríos con representación de profundidad y distinción de cuenca]  |  ![](sam_ríos_profundidad_colorCuenca.png)
