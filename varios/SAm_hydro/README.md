@@ -24,7 +24,7 @@ Mapas creados para Sudamérica a partir código desarrollado por Adam Symington 
 ## Mapas
 
 
-| Nombre             |  Mapa |
+| Descripción             |  Mapa |
 :-------------------------:|:-------------------------:
 [Ríos de Sudamérica]  |  ![](sam_ríos.png)
 [Cuencas de Sudamérica]  |  ![](sam_cuencas.png)
