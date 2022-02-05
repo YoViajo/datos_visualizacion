@@ -4,6 +4,15 @@
 
 Base de datos global de ríos - Ríos de Sudamérica. [A Simple Global River Bankfull Width & Depth Database](http://gaia.geosci.unc.edu/rivers/)
 
+[Datos fuente - Límites de países y lagos](https://www.naturalearthdata.com/)
+
+Límites administrativos de países del mundo y Lagos del mundo - Natural Earth
+
+[Datos fuente - Cuencas de Sudamérica](https://www.hydrosheds.org/page/hydrobasins)
+
+Cuencas /HydroBASINS/Standard/South America - HydroSHEDS
+
+
 
 [Código fuente Python Notebook](beautiful_river_maps_Sam.ipynb)
 
