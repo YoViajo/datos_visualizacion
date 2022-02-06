@@ -1,6 +1,6 @@
 # 📊 Aventuras en visualización de datos 🌍
 
-Exploraciones de visualizaciones de datos
+Exploraciones de visualizaciones de datos con diferentes herramientas, métodos y fuentes de datos.
 
 ---
 
