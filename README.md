@@ -4,7 +4,7 @@ Exploraciones de visualizaciones de datos con diferentes herramientas, métodos 
 
 ---
 
-### Exploraciones
+### Proyectos
 
 | BOLIVIA            |  Descripción |
 :-------------------------:|:-------------------------:
