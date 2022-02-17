@@ -1,4 +1,4 @@
-# Mapas bonitos a partir de OpenStreetMap
+# Mapas bonitos de una ciudad a partir de OpenStreetMap
 Representación de elementos urbanos del centro de una ciudad de Bolivia.
 
 ### Código fuente
