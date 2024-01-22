@@ -16,3 +16,9 @@ torrescel |  ![Distribución de torres de telefonía celular](Bolivia/torrescel/
 | VARIOS            |  Descripción |
 :-------------------------:|:-------------------------:
 SAm_hydro  |  ![Mapas de ríos](varios/SAm_hydro/README.md)
+
+
+
+[Visualización de datos geoespaciales utilizando Folium](py/01/visualiz_folium.ipynb)
+
+

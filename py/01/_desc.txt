@@ -1,0 +1,7 @@
+https://www.kdnuggets.com/2018/09/visualising-geospatial-data-python-folium.html
+
+Visualising Geospatial data with Python using Folium
+
+
+Ejemplo de visualización de geodatos con librería Folium
+
