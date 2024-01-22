@@ -21,4 +21,6 @@ SAm_hydro  |  ![Mapas de ríos](varios/SAm_hydro/README.md)
 
 [Visualización de datos geoespaciales utilizando Folium](py/01/visualiz_folium.ipynb)
 
+[Demostración de librería Telluric para gestión básica de geodatos](py/02/telluric_ejemplo.ipynb)
+
 
