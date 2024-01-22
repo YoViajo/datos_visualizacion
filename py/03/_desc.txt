@@ -1,0 +1,4 @@
+Revisión rápida de datos .geojsonl usando librería Leafmap
+
+ambiente <geo_env>
+

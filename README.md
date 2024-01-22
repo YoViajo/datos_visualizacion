@@ -23,4 +23,4 @@ SAm_hydro  |  ![Mapas de ríos](varios/SAm_hydro/README.md)
 
 [Demostración de librería Telluric para gestión básica de geodatos](py/02/telluric_ejemplo.ipynb)
 
-
+[Revisión rápida de datos .geojsonl usando librería Leafmap](py/03/GlobalMLBuildingFootprints.ipynb)
