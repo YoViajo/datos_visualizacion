@@ -18,3 +18,7 @@ torrescel |  ![Distribución de torres de telefonía celular](Bolivia/torrescel/
 
 [Representación de topografía con paleta tricolor](elevac/02)
 
+**Socioeconomía**
+
+[Densidad de población](01/bo_day30.R)
+

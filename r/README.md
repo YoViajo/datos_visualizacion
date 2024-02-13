@@ -17,3 +17,8 @@ Exploraciones en visualización de datos con múltiples funciones de R
 [Distribución de puntos](torrescel/README.md)  |  ![](torrescel/salida/mapa_distr_torres_celular_Bolivia.png)
 [Mapa 3D Coroplético](3d_mapa/README.md)  |  ![](3d_mapa/salida/bol_mun_cobelectrica_2016.png)
 [Treemap](treemap/README.md)  |  ![](treemap/salida/Rplot-1.png)
+
+**Otros**
+
+[Ejemplo de cambio de imagen para que un gráfico comunique mejor con datos](02/narracion_datos_ggplot.R)
+
