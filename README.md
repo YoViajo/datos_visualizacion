@@ -6,7 +6,7 @@ Exploraciones de visualizaciones de datos con diferentes herramientas, métodos 
 
 ### Proyectos
 
-[Visualización de datos Bolivia](Bolivia/README.md)
+[datvis Bolivia](Bolivia/README.md)
 
 [Código R](r/README.md)
 
