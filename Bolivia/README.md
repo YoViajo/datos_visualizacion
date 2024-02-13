@@ -22,5 +22,6 @@ torrescel |  ![Distribución de torres de telefonía celular](Bolivia/torrescel/
 
 **Socioeconomía**
 
-[Densidad de población](01/bo_day30.R)  [(png)](01/salida/bol_denspob_Bolivia.png)
+[Densidad de población](socio/01/bo_day30.R)  [(png)](socio/01/salida/bol_denspob_Bolivia.png)
 
+[Cartograma: población de dptos](socio/02/Bol_cartogramas.R)  [(png1)](socio/02/3%20Población%20x%20dptos%20tmap.png) [(png2)](socio/02/4%20Población%20x%20dptos%20ggplot2.png) [(png3)](socio/02/5%20Población%20x%20dptos%20ggplot2%20dorling.png)
