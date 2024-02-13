@@ -14,5 +14,5 @@ torrescel |  ![Distribución de torres de telefonía celular](Bolivia/torrescel/
 
 elevac |  ![Animación a curvas de elevación](elevac/01/README.md)
 
-elevac |  ![Representación de topografía con paleta tricolor](elevac/02/Bolivia%20relsom%20elev%20color3%20z1-z30.gif)
+elevac |  ![Representación de topografía con paleta tricolor](elevac/02)
 
