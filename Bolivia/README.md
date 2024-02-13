@@ -25,3 +25,7 @@ torrescel |  ![Distribución de torres de telefonía celular](Bolivia/torrescel/
 [Densidad de población](socio/01/bo_day30.R)  [(png)](socio/01/salida/bol_denspob_Bolivia.png)
 
 [Cartograma: población de dptos](socio/02/Bol_cartogramas.R)  [(png1)](socio/02/3%20Población%20x%20dptos%20tmap.png) [(png2)](socio/02/4%20Población%20x%20dptos%20ggplot2.png) [(png3)](socio/02/5%20Población%20x%20dptos%20ggplot2%20dorling.png)
+
+**Urbano**
+
+[Mapa minimalista de ciudad generado a partir de OSM](urbano/01/rcityviews.R)  [(png1)](urbano/01/salida/cotoca.png) [(png2)](urbano/01/salida/montero.png) [(png3)](urbano/01/salida/samaipata.png)
