@@ -20,5 +20,6 @@ Exploraciones en visualización de datos con múltiples funciones de R
 
 **Otros**
 
-[Ejemplo de cambio de imagen para que un gráfico comunique mejor con datos](02/narracion_datos_ggplot.R)
+[Ejemplo de cambio de imagen para que un gráfico comunique mejor con datos](02/narracion_datos_ggplot.R)  [(png1)](02/1%20-%20inicial.png) [(png2)](02/2%20-%20final.png)
 
+[Colocación de logo personalizado en gráfico estadístico](03/pers_logos_ggplot2.R)  [(png)](03/salida/histograma%20logo%20heuris.png)

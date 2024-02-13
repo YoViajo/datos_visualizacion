@@ -1,0 +1,5 @@
+https://www.markhw.com/blog/logos
+HOW I PUT LOGOS ON GGPLOT2 FIGURES
+
+Colocación de logo personalizado en gráfico estadístico
+    > Mi logo Heuris
