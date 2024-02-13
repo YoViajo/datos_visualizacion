@@ -18,7 +18,7 @@ torrescel |  ![Distribución de torres de telefonía celular](Bolivia/torrescel/
 
 [Representación de topografía con paleta tricolor](elevac/02)
 
-[Mapa topográfico](elevac/03/bol_crisp_topography.R)
+[Mapa topográfico](elevac/03/bol_crisp_topography.R)  [(png)](elevac/03/bolivia_topo_map.png)
 
 **Socioeconomía**
 
