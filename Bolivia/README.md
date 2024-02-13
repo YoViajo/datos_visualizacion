@@ -32,3 +32,6 @@ torrescel |  ![Distribución de torres de telefonía celular](Bolivia/torrescel/
 [Mapa minimalista de ciudad generado a partir de OSM](urbano/01/rcityviews.R)  [(png1)](urbano/01/salida/cotoca.png) [(png2)](urbano/01/salida/montero.png) [(png3)](urbano/01/salida/samaipata.png)
 
 
+**Bio/Agro**
+
+[Mapa 3D de alturas de árboles](bioagro/01/bol_3d_maps.R)  [(png)](bioagro/01/salida/mapa%20altura%20bosques%20Bolivia.png)
