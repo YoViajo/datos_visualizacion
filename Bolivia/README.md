@@ -13,5 +13,6 @@ prettymaps |  ![Mapas de ciudad usando OpenStreetMap](Bolivia/prettymaps/README.
 torrescel |  ![Distribución de torres de telefonía celular](Bolivia/torrescel/README.md)
 
 elevac |  ![Animación a curvas de elevación](Bolivia/elevac/01/README.md)
+
 elevac |  ![Representación de topografía con paleta tricolor](Bolivia/elevac/02)
 
