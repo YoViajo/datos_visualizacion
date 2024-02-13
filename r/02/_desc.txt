@@ -1,0 +1,5 @@
+Ejemplo de armado de visualización de datos más avanzada, con texto de apoyo al gráfico
+
+tutorial:
+https://albert-rapp.de/post/2022-03-29-recreating-the-swd-look/
+Recreating the Storytelling with Data look with ggplot
