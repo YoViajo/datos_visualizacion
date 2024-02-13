@@ -27,7 +27,7 @@ torrescel |  ![Distribución de torres de telefonía celular](Bolivia/torrescel/
 
 **Urbano**
 
-[prettymaps, mapas de ciudad usando OpenStreetMap](Bolivia/prettymaps/README.md)
+[prettymaps, mapas de ciudad usando OpenStreetMap](urbano/prettymaps/README.md)
 
 [Mapa minimalista de ciudad generado a partir de OSM](urbano/01/rcityviews.R)  [(png1)](urbano/01/salida/cotoca.png) [(png2)](urbano/01/salida/montero.png) [(png3)](urbano/01/salida/samaipata.png)
 
