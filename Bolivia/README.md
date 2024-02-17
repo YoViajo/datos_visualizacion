@@ -27,6 +27,8 @@ torrescel |  ![Distribución de torres de telefonía celular](Bolivia/torrescel/
 
 **Urbano**
 
+[GLAD expansión urbana 2000-2020](urbano/02/)
+
 [prettymaps, mapas de ciudad usando OpenStreetMap](urbano/prettymaps/README.md)
 
 [Mapa minimalista de ciudad generado a partir de OSM](urbano/01/rcityviews.R)  [(png1)](urbano/01/salida/cotoca.png) [(png2)](urbano/01/salida/montero.png) [(png3)](urbano/01/salida/samaipata.png)
