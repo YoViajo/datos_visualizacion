@@ -1,6 +1,0 @@
-https://github.com/koenderks/rcityviews
-An R package and Shiny application to render minimalistic aerial city views using data from OpenStreetMap.
-
-
-Prueba con ciudad de Bolivia: Montero, Cotoca, Samaipata
-

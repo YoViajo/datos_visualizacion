@@ -1,3 +1,0 @@
-Representación de construcciones urbanas en la ciudad (municipio) de Santa Cruz
-
-OSM + huella edificios Microsoft + máscara municipio

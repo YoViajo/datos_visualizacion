@@ -6,8 +6,6 @@ Exploraciones de visualizaciones de datos con diferentes herramientas, métodos 
 
 ### Proyectos
 
-[datvis Bolivia](Bolivia/README.md)
-
 [Código R](r/README.md)
 
 [Código Python](py/README.md)
