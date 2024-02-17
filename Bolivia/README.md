@@ -27,6 +27,8 @@ torrescel |  ![Distribución de torres de telefonía celular](Bolivia/torrescel/
 
 **Urbano**
 
+[Representación de construcciones urbanas en la ciudad (municipio) de Santa Cruz](urbano/03/)
+
 [GLAD expansión urbana 2000-2020](urbano/02/)
 
 [prettymaps, mapas de ciudad usando OpenStreetMap](urbano/prettymaps/README.md)
